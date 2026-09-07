@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: 버그 제보 / Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -54,6 +54,7 @@ If applicable, add screenshots to help explain your problem.
 - 기기 이름 / Device name: `ex) iPad Pro (3rd gen), iPhone 17 Pro`
 
 앱 내에서 `앱 정보` 탭-> 최하단의 진단 정보 복사 후 붙여넣기 해주세요
+Copy Dianognostics information in the `App Info` tab
 
 **추가 정보 / Additional context**
 [선택] 버그에 대한 추가 정보를 적어주세요
